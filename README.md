@@ -1,2 +1,2 @@
-# MotorHouse
-CS project 2020-2021.
+# motor-house
+NIthilan's CSE project -12th std
